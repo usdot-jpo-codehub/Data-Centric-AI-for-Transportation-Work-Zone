@@ -33,7 +33,7 @@ Requires:
 
 Step 1: Create a virtual environment and navigate to the project folder.
 
-Step 2: Download data and extract it under the project folder:
+Step 2: Download the data and extract them under the project folder:
 - raw data: https://drive.google.com/file/d/1GKx01BbFyzBBm34pZfWTjRGAJ2cNW9t0/view?usp=sharing
 - processed data: https://drive.google.com/file/d/1K0i322h_M2JLZTf5wC_0HpNhdR_yIWlz/view?usp=sharing
 
